@@ -10,6 +10,14 @@ namespace Chap01
             
             mallard.PerformQuack();
             mallard.PerformFly();
+
+            Duck model = new ModelDuck();
+            
+            model.PerformQuack();
+            model.PerformFly();
+
+            model.FlyBehavior = new FlyRocketPowered();
+            model.PerformFly();
         }
     }
 }
