@@ -1,6 +1,6 @@
 using System;
 
-namespace Chap02___WeatherStation
+namespace Chap02
 {
     public class CurrentConditionsDisplay : IObserver, IDisplayElement
     {

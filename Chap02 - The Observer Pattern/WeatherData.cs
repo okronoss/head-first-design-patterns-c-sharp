@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Chap02___WeatherStation
+namespace Chap02
 {
     public class WeatherData : ISubject
     {

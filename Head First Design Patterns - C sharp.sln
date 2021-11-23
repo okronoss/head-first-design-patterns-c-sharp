@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap01 - MiniDuckSimulator", "Chap01 - MiniDuckSimulator\Chap01 - MiniDuckSimulator.csproj", "{EBA147E5-589D-4175-99F8-1B0B1B5F9018}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap02 - WeatherStation", "Chap02 - WeatherStation\Chap02 - WeatherStation.csproj", "{D18BF5DF-4E1C-40C6-8C34-75FCD142C90F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap02 - The Observer Pattern", "Chap02 - The Observer Pattern\Chap02 - The Observer Pattern.csproj", "{D18BF5DF-4E1C-40C6-8C34-75FCD142C90F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

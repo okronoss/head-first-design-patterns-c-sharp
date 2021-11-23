@@ -1,4 +1,4 @@
-namespace Chap02___WeatherStation
+namespace Chap02
 {
     public interface IDisplayElement
     {
