@@ -1,3 +1,5 @@
+using System;
+
 namespace Chap03
 {
     public class Soy : CondimentDecorator
@@ -15,7 +17,17 @@ namespace Chap03
         
         public override double Cost()
         {
-            return BeverageDecorator.Cost() + .15;
+            var cost = BeverageDecorator.Cost();
+
+            cost += DrinkSize switch
+            {
+                Size.Tall => .10,
+                Size.Grande => .15,
+                Size.Venti => .20,
+                _ => throw new ArgumentOutOfRangeException()
+            };
+
+            return cost;
         }
     }
 }
