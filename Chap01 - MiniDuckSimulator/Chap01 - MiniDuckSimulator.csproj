@@ -4,6 +4,7 @@
         <OutputType>Exe</OutputType>
         <TargetFramework>net5.0</TargetFramework>
         <RootNamespace>Chap01</RootNamespace>
+        <AssemblyName>Chap01 - The Strategy Pattern</AssemblyName>
     </PropertyGroup>
 
 </Project>

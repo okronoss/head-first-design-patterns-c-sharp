@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap01 - MiniDuckSimulator"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap02 - The Observer Pattern", "Chap02 - The Observer Pattern\Chap02 - The Observer Pattern.csproj", "{D18BF5DF-4E1C-40C6-8C34-75FCD142C90F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap03 - The Decorator Pattern", "Chap03 - The Decorator Pattern\Chap03 - The Decorator Pattern.csproj", "{9E477428-BEAD-4903-8387-E6A7C725FE1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,6 +20,10 @@ Global
 		{D18BF5DF-4E1C-40C6-8C34-75FCD142C90F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D18BF5DF-4E1C-40C6-8C34-75FCD142C90F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D18BF5DF-4E1C-40C6-8C34-75FCD142C90F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E477428-BEAD-4903-8387-E6A7C725FE1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E477428-BEAD-4903-8387-E6A7C725FE1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E477428-BEAD-4903-8387-E6A7C725FE1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E477428-BEAD-4903-8387-E6A7C725FE1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection

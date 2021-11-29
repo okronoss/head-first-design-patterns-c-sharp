@@ -14,7 +14,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "/home/alexcote/Projects/Rider/Head First Design Patterns - C sharp/Chap01 - MiniDuckSimulator/Chap01 - MiniDuckSimulator.csproj",
-      "projectName": "Chap01 - MiniDuckSimulator",
+      "projectName": "Chap01 - The Strategy Pattern",
       "projectPath": "/home/alexcote/Projects/Rider/Head First Design Patterns - C sharp/Chap01 - MiniDuckSimulator/Chap01 - MiniDuckSimulator.csproj",
       "packagesPath": "/home/alexcote/.nuget/packages/",
       "outputPath": "/home/alexcote/Projects/Rider/Head First Design Patterns - C sharp/Chap01 - MiniDuckSimulator/obj/",
